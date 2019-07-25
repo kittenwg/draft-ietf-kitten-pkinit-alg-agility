@@ -1,4 +1,8 @@
 # draft-ietf-kitten-pkinit-alg-agility
+
+This document has become [rfc8638](https://tools.ietf.org/html/rfc8636);
+accordingly, this repository is archived.
+
 PKINIT Algorithm Agility ([datatracker](https://datatracker.ietf.org/doc/html/draft-ietf-kitten-pkinit-alg-agility))
 
 This is tracking a document of the [IETF kitten Working Group](https://datatracker.ietf.org/wg/kitten), and is subject to the provisions of the IETF. NOTE WELL: https://www.ietf.org/about/note-well.html and see also the CONTRIBUTING.md file.
